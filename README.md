@@ -21,7 +21,7 @@ Tecnologias Utilizadas:
     React Spinners
 
 Surge
-enchanted-bee.surge.sh
+http://enchanted-bee.surge.sh
 
 Integrantes
 
